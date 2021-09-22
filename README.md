@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 I'm Rami, and I love developing software!
-Some of my other interests and skills lie in machine learning, quantitative finance, and game development.
+Some of my other interests and skills lie in modelling complex systems, machine learning, and game development.
 
-Check out my portfolio and blog at [ramiawar.github.io](ramiawar.github.io)
+Wanna chat? [Book a meeting](https://calendly.com/ramiawar-proton/)
+
+Check out my software blog at [Softgrade](https://softgrade.org) 
+Out of date portfolio: [ramiawar.github.io](ramiawar.github.io)
 
 
 [//]: # (<a href="https://github.com/ramiawar/ramiawar">)
