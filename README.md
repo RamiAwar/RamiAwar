@@ -7,7 +7,7 @@ Wanna chat? [Book a meeting](https://calendly.com/ramiawar-proton/)
 
 Check out my software blog at [Softgrade](https://softgrade.org) 
 
-Out of date portfolio: [ramiawar.github.io](ramiawar.github.io)
+Out of date portfolio: [ramiawar.github.io](https://ramiawar.github.io)
 
 
 [//]: # (<a href="https://github.com/ramiawar/ramiawar">)
