@@ -3,8 +3,6 @@
 I'm Rami, and I love developing software!
 Some of my other interests and skills lie in modelling complex systems, machine learning, and game development.
 
-Wanna chat? [Book a meeting](https://calendly.com/ramiawar-proton/)
-
 Check out my software blog at [Softgrade](https://softgrade.org) 
 
 Out of date portfolio: [ramiawar.github.io](https://ramiawar.github.io)
