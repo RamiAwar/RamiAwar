@@ -9,6 +9,12 @@ Some of my other interests and skills lie in robotics, modelling complex systems
 - [LinkedIn](https://www.linkedin.com/in/ramiawarco/)
 - [Blog](https://softgrade.org)
 
+# DataLine
+
+- [Website](https://dataline.app)
+- [Github](https://github.com/RamiAwar/dataline)
+- [Discord](https://discord.gg/f2dC4CJK8d)
+
 
 Out of date portfolio: [ramiawar.github.io](https://ramiawar.github.io)
 
